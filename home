@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head> 
+    <title>Wee Welshman</title>
+    <link rel="stylesheet" href="style.css"/>
+
+
+</head>
+
+<body>
+    <!-- Navigation Section-->
+    <div class="nav-container">
+         <nav class="main-nav">
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="products-and-services.html">Products and Services</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="contact.html">Contact</a></li>
+
+
+             </ul>
+         </nav>
+    
+    </div>
+    
+    <div class="main-content">     <h1>The WeeWelshman</h1>
+
+    <p>Welcome to my gas website</p>
+
+        <div class="book-now" id="book"> 
+            <h2>Book Now</h2>
+        </div>
+
+
+
+    </div>
+    
+    
+</body>
+
+</html>
